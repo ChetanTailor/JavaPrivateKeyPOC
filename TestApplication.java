@@ -8,7 +8,7 @@ import java.util.Base64;
 
 public class TestApplication {
 
-    private static final String CURVE = "secp256r1"; // P-256 curve
+    private static final String CURVE = "secp384r1"; // P-384 curve
 
     public static void main(String[] args) {
         try {
